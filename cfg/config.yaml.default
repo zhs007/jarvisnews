@@ -1,0 +1,19 @@
+# jarvis news config file
+
+# crawler service addr
+Crawlers: 
+  -
+    servaddr: 127.0.0.1:7051
+    token: 1234567890
+
+# http server address
+httpaddr: 127.0.0.1:7053
+
+# ankadb config
+ankadb:
+  # dbpath
+  dbpath: './dat'
+  # engine
+  engine: 'leveldb'
+  # httpaddr
+  httpaddr: ''
