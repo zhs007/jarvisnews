@@ -4,4 +4,4 @@ package jarvisnewsbasedef
 const JARVISNODETYPE = "news.jarvis"
 
 // VERSION - version
-const VERSION = "0.1.2"
+const VERSION = "0.1.3"
